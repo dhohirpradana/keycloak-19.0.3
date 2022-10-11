@@ -1,0 +1,1 @@
+Keycloak - Version 19.0.3

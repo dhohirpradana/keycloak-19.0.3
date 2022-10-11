@@ -1,0 +1,6 @@
+#FileLock
+#Tue Oct 11 12:16:25 WIB 2022
+hostName=192.168.200.109
+id=183c578f00e6509ea352c87015f8793f6273852d97a
+method=file
+server=192.168.200.109\:57410
